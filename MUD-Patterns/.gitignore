@@ -1,0 +1,28 @@
+# Игнорируем папки сборки
+/bin/
+/build/
+/out/
+target/
+
+# Файлы IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Файлы Maven и Gradle
+.mvn/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Кэш-папки
+/.DS_Store
+/.vscode/
+Thumbs.db
+
+# Конфигурационные файлы ОС
+*.swp
